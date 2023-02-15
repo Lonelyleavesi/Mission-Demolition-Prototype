@@ -66,23 +66,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2846}
     - Class: 114
-      Script: {instanceID: 3414}
+      Script: {instanceID: 3392}
     - Class: 114
-      Script: {instanceID: 5534}
+      Script: {instanceID: 3416}
     - Class: 114
-      Script: {instanceID: 5864}
+      Script: {instanceID: 3628}
+    - Class: 114
+      Script: {instanceID: 5538}
     - Class: 114
       Script: {instanceID: 5868}
     - Class: 114
-      Script: {instanceID: 6266}
+      Script: {instanceID: 5872}
     - Class: 114
-      Script: {instanceID: 6368}
+      Script: {instanceID: 6270}
     - Class: 114
-      Script: {instanceID: 23522}
+      Script: {instanceID: 6372}
     - Class: 114
-      Script: {instanceID: 24258}
-    - Class: 114
-      Script: {instanceID: 32804}
+      Script: {instanceID: 6464}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -360,6 +360,12 @@ ScriptsOnlyBuild:
     className: VariablesAsset
   - hash:
       serializedVersion: 2
+      Hash: f0d12966590be95cb929eaf1b5b8625c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Projectile
+  - hash:
+      serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
     assemblyName: Unity.VisualScripting.Flow.dll
     namespaceName: Unity.VisualScripting
@@ -400,6 +406,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 6714131d3a5f14a3bc065f3095f3ae91
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MissionDemolition
   - hash:
       serializedVersion: 2
       Hash: bd3cf68c8964d3c66d1c43f4f98508c9
@@ -714,6 +726,12 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Goal
+  - hash:
+      serializedVersion: 2
       Hash: 4fd8bf02e3089425d3502e26c44ba31a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -904,25 +922,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Goal
-  - hash:
-      serializedVersion: 2
-      Hash: f0d12966590be95cb929eaf1b5b8625c
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Projectile
-  - hash:
-      serializedVersion: 2
-      Hash: 6714131d3a5f14a3bc065f3095f3ae91
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MissionDemolition
   platform: 20
   scenePathNames:
   - Assets/Scenes/_Scene_0.unity
-  playerPath: "E:/UnitGame/\u65B0\u5EFA\u6587\u4EF6\u5939"
+  playerPath: E:/UnitGame/MissionDemolitionPrototype
